@@ -29,7 +29,7 @@
 </p>
 
 #### Profile views counter
-![Visitor Count](https://profile-counter.glitch.me/{imakash3011}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{rishabhsharma1997}/count.svg)
 
 - 👀 I’m interested in Everything
 - 🌱 I’m currently learning everything

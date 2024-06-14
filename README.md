@@ -6,7 +6,7 @@
 
 
 - I'm a **Learner** | **Programmer** 
-- About me :- **I m a developer let's code**
+- About me :- **I m a explorer let's code**
 - Currently **Working as a developer in meshery**
 - Willing to contribute more and more in **Anything**
 
